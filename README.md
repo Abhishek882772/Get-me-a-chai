@@ -1,3 +1,8 @@
+<img width="1366" height="728" alt="Get me chai" src="https://github.com/user-attachments/assets/6af3af8d-de21-4ec2-95f0-35e00fe7d92b" />
+<img width="1366" height="728" alt="get me chai2" src="https://github.com/user-attachments/assets/6c376342-977d-4e08-b893-5ce382bda15d" />
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
